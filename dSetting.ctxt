@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=dSetting
+comment0.text=\n\ Sets\ the\ difficulty\ to\ 2\ (Normal)\ as\ default\ unless\ the\ player\ chooses\ to\ set\ a\ different\ difficulty.\n\ \n\ @author\ (Adrian\ Espiritu)\ \n
+comment1.params=
+comment1.target=dSetting()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=value
+comment3.target=void\ setDifficulty(int)
+comment4.params=
+comment4.target=void\ checkDifficulty()
+comment5.params=dsetting
+comment5.target=void\ takeMetoSpace(int)
+comment5.text=\n\ These\ methods\ are\ used\ by\ the\ difficulty\ buttons\ to\ determine\ what\ level\n\ and\ where\ to\ take\ the\ player.\n\ \n\ @author\ (Adrian\ Espiritu)\ \n
+comment6.params=dsetting
+comment6.target=void\ takeMetoCave(int)
+comment7.params=dsetting
+comment7.target=void\ takeMetoLavaCave(int)
+numComments=8

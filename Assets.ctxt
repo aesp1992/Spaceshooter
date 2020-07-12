@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Assets
+comment0.text=\n\ Assets\ class\ that\ takes\ in\ parameters.\ Shows\ image\ according\ parameter.\n\ \n\ @author\ (Adrian\ Espiritu)\ \n
+comment1.params=whatAsset
+comment1.target=Assets(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Assets\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ removeMe()
+numComments=4

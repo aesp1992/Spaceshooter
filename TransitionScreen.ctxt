@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TransitionScreen
+comment0.text=\n\ An\ object\ that\ can\ completely\ obscure\ the\ screen\ for\ transitions\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ TransitionScreen\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=newColor\ newRate
+comment2.target=TransitionScreen(greenfoot.Color,\ int)
+comment3.params=newColor\ newRate\ onlyAscending1
+comment3.target=TransitionScreen(greenfoot.Color,\ int,\ boolean)
+comment4.params=
+comment4.target=boolean\ isDecreasing()
+comment4.text=\n\ @author\ George\ Langroudi\n\ Checks\ if\ the\ image\ has\ reached\ full\ opacity\ and\ begun\ to\ go\ transparent\ again.\n
+comment5.params=world
+comment5.target=void\ addedToWorld(greenfoot.World)
+comment6.params=
+comment6.target=void\ setDecreasing()
+comment6.text=\n\ Sets\ the\ screen\ to\ fully\ opaque\ and\ starts\ it\ fading\ away\n
+comment7.params=setNewImage
+comment7.target=void\ newImage(greenfoot.GreenfootImage)
+comment8.params=newDelay
+comment8.target=void\ setDelay(int)
+numComments=9

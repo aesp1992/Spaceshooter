@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Healthbar
+comment0.text=\n\ @author\ (Adrian\ Espiritu)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ drawHealthbar()
+comment2.text=\n\ Draws\ the\ attributes\ of\ the\ Healthbar.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment3.params=whathit
+comment3.target=void\ loseHealth(int)
+comment3.text=\n\ Health\ goes\ down\ by\ the\ specified\ parameter.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment4.params=
+comment4.target=void\ gainMaxHealth()
+comment4.text=\n\ Health\ goes\ back\ to\ full.\n\ \n\ @author\ (Felix\ Gillingham)\n
+comment5.params=
+comment5.target=void\ heal()
+comment5.text=\n\ This\ method\ adds\ +25\ to\ health.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment6.params=value
+comment6.target=void\ setHealth(int)
+comment6.text=\n\ Set\ Health\ to\ a\ specific\ value\ (Used\ for\ level\ switching)\n\ \n\ @author\ (Adrian\ Espiritu)\n
+numComments=7

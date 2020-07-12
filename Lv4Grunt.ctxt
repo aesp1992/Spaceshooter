@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Lv4Grunt
+comment0.text=\n\ The\ Level\ 3\ Grunt\ enemies\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=rate
+comment2.target=void\ rocketAttack(int)
+comment2.text=\n\ @author\ George\ Langroudi\n\ Gives\ the\ ship\ a\ chance\ of\ shooting\ a\ missile\n\ parameters\n\ \n\ int\ rate\ \ \ \ \ \ \ \ \ The\ chance\ of\ shooting\ a\ missile,\ lower\ is\ faster.\n
+comment3.params=rate
+comment3.target=void\ attack(int)
+comment3.text=\n\ @author\ George\ Langroudi\n\ Gives\ the\ ship\ a\ chance\ of\ shooting\ a\ shot\n\ parameters\n\ \n\ int\ rate\ \ \ \ \ \ \ \ \ The\ chance\ of\ shooting\ a\ shot,\ lower\ is\ faster.\n
+numComments=4

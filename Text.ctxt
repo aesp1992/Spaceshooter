@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\n\ Text\ class\ that\ takes\ in\ parameters.\ Shows\ text\ according\ parameter.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment1.params=whatText
+comment1.target=Text(int)
+comment1.text=\n\ @author(Adrian\ Espiritu)\n\ @editor(Felix\ Gillingham)\n\ added\ more\ texts\ for\ my\ new\ class\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

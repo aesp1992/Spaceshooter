@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Weapons
+comment0.text=\n\ This\ is\ the\ superclass,\ so\ all\ our\ powerup\ subclasses\ call\ upon\ the\ methods\ in\ this\ class.\n\ \n\ @author\ (Felix\ Gillingham)\ \n\ @version\ (16/02/2017)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=speed
+comment2.target=void\ moveObj(int)
+comment2.text=\n\ This\ class\ allows\ the\ powerup\n
+comment3.params=
+comment3.target=void\ drawPowerUpBar()
+comment3.text=\n\ Draws\ the\ attributes\ of\ the\ PowerUp\ Bar.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment4.params=
+comment4.target=void\ gainMaxPower()
+comment4.text=\n\ This\ refills\ powerup\ bar\ to\ max.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment5.params=
+comment5.target=void\ loseTime()
+comment5.text=\n\ poweruptimer\ loses\ time\ by\ the\ specified\ amount\n\ \n\ @author\ (Adrian\ Espiritu)\n
+numComments=6

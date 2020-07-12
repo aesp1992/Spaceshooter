@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LeaderBoard
+comment0.text=\n\ Write\ a\ description\ of\ class\ A\ here.\n\ \n\ @author\ (Aziz)\ \n\ @version\ (2)\n
+comment1.params=
+comment1.target=LeaderBoard()
+comment2.params=
+comment2.target=void\ drawBoard()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ A\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=score
+comment4.target=void\ addScore(int)
+comment5.params=
+comment5.target=void\ load()
+comment6.params=
+comment6.target=void\ save()
+numComments=7

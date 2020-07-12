@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\n\ Sets\ Image\ according\ to\ parameter\ sent.\n\n\ @author\ (Adrian\ Espiritu)\ \n
+comment1.params=whichLayer
+comment1.target=Background(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

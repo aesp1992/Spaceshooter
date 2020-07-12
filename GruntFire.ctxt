@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GruntFire
+comment0.text=\n\ Write\ a\ description\ of\ class\ gruntFire\ here.\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=setDamage\ setSpeed\ setSprite\ setAngle
+comment2.target=GruntFire(int,\ int,\ int,\ int)
+comment2.text=\n\ class\ initialiser\n\ \n\ parameters\n\ @setDamage\ \ \ \ \ \ \ sets\ the\ shots\ damage\ value\n\ @setSpeed\ \ \ \ \ \ \ \ sets\ the\ speed\ at\ which\ the\ shot\ shoots\n\ @setSprite\ \ \ \ \ \ \ sets\ the\ sprite\ that\ the\ shot\ will\ use;\n
+comment3.params=
+comment3.target=int\ getDamage()
+comment3.text=\n\ Returns\ the\ damage\ value\ the\ shot\ has,\ so\ the\ Spaceship\ can\ see\ how\ much\n\ damage\ it\ should\ take.\ \n
+numComments=4

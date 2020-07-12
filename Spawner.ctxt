@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Spawner
+comment0.text=\n\ The\ class\ that\ generates\ enemies\ in\ the\ level.\ Enemies\ numbers\ will\ not\ be\ dynamic\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=whatLevel
+comment1.target=Spawner(int)
+comment1.text=\n\ Spawns\ the\ appropriate\ spawner\ array\ according\ the\n\ parameter\ passed.\n\n\ @author\ (Adrian\ Espiritu)\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=x\ y\ number\ difficulty
+comment4.target=void\ spawnGrunt(int,\ int,\ int,\ int)
+comment4.text=\n\ Parameters\n\ int\ x\ \=\ How\ much\ to\ shift\ the\ X\ value\ every\ time\ an\ enemy\ spawns\n\ int\ y\ \=\ The\ height\ difference\ between\ each\ enemy\n\ int\ number\ \=\ The\ number\ of\ enemies\ to\ spawn\n\ int\ difficulty\ \=\ The\ enemy\ to\ spawn.\ Each\ enemy\ has\ a\ different\ value.\ 1\ is\ Lv1Grunt,\ 2\ is\ Lv2Grunt.\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment5.params=length
+comment5.target=void\ pause(int)
+comment5.text=\n\ Pauses\ the\ counter\ for\ a\ set\ amount\ of\ time.\n\ parameters\n\ \n\ int\ length\ \ \ \ \ \ \ \ \ \ \ How\ many\ ticks\ to\ wait\ before\ resetting\ the\ counter.\n
+comment6.params=
+comment6.target=void\ nextLevel()
+comment6.text=\n\ Gets\ current\ value\ of\ lives,\ health,\ score\ and\ difficulty\ to\ pass\ to\ the\n\ next\ level.\n\n\ @author\ (Adrian\ Espiritu)\n
+comment7.params=
+comment7.target=void\ enemyOnScreen()
+comment7.text=\n\ Checks\ if\ there\ is\ still\ enemies\ on\ screen.\n\n\ @author\ (Adrian\ Espiritu)\n
+numComments=8

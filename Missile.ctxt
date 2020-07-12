@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Missile
+comment0.text=\n\ Write\ a\ description\ of\ class\ Missile\ here.\n\ \n\ @author\ (George\ Langroudi)\ \n\ @editor\ (Felix\ Gillingham)\n\ Added\ the\ hitEnemy\ method\ and\ set\ the\ damage\ to\ two.\n\ @version\ (09/03/2017)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ @author\ (George\ Langroudi)\ \n
+comment2.params=newDurationMath\ newMovementMath
+comment2.target=Missile(int,\ int)
+comment2.text=\n\ @author\ (George\ Langroudi)\ \n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\n\ @author\ (George\ Langroudi)\ \n
+comment4.params=
+comment4.target=void\ hitEnemy()
+comment4.text=\n\ @author\ (Felix\ Gillingham)\n\ \n\ This\ class\ checks\ if\ the\ missile\ is\ touching\ an\ enemy\ and\ will\ deal\ damage.\n
+comment5.params=
+comment5.target=void\ destroy()
+comment5.text=\n\ @author\ (George\ Langroudi)\ \n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Lv2Grunt
+comment0.text=\n\ The\ second\ teir\ of\ enemy,\ has\ a\ faster\ attack,\ faster\ movement\ and\ more\ aggressive\ attack\ patern.\ \n\ \n\ @author\ (George\ Langroudi)\ \n\ @version\ (07/02/2017)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=rate
+comment2.target=void\ attack(int)
+numComments=3

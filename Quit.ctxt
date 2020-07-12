@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Quit
+comment1.params=
+comment1.target=Quit()
+comment1.text=\n\ Creates\ the\ Quit\ Button\ that\ you\ see\ in\ the\ start\ screen.\n\ Changes\ images\ if\ the\ user\ hovers\ on\ the\ image.\n\n\ @author\ (Adrian\ Espiritu)\ \n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

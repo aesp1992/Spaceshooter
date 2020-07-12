@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lv1Grunt
+comment0.text=\n\ The\ basic\ grunt\ of\ the\ game,\ has\ a\ slow\ attack\ speed,\ slow\ movement\ speed\ and\ isn't\ actively\ aggressive.\n\ \n\ @author\ (George\ Langroudi)\ \n\ @version\ (07/02/2017)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Lv1Grunt\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=speed
+comment2.target=void\ startFlourish(int)
+numComments=3

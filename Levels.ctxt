@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Levels
+comment1.params=
+comment1.target=Levels()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Levels.\n\ \n
+comment2.params=
+comment2.target=ScoreBoard\ getScore()
+comment2.text=\n\ Returns\ the\ current\ Score\n\ \n\ @author\ (Aziz\ Khan)\n
+comment3.params=
+comment3.target=Healthbar\ getHealthBar()
+comment3.text=\n\ Returns\ the\ current\ Healthbar\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment4.params=
+comment4.target=Lives\ getLives()
+comment4.text=\n\ Returns\ the\ current\ Lives\n\ \n\ @author\ (Felix\ Gillingham)\n
+comment5.params=
+comment5.target=Weapons\ getPowerUpTimer()
+comment5.text=\n\ Returns\ the\ current\ Lives\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment6.params=
+comment6.target=dSetting\ getDifficulty()
+comment6.text=\n\ Returns\ the\ current\ Difficulty\ Setting\n\ \n\ @author\ (Adrian\ Espiritu)\n
+numComments=7

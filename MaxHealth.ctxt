@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MaxHealth
+comment0.text=\n\ Write\ a\ description\ of\ class\ MaxHealth\ here.\n\ \n\ @author\ (Felix\ Gillingham)\ \n\ @version\ (17/02/2017)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ This\ calls\ the\ method\ from\ the\ Powerups\ class,\ allowing\ the\ MaxHealth\ to\ move\ across\ the\ screen.\n\ The\ smaller\ the\ number,\ the\ faster\ it\ moves.\n
+numComments=2

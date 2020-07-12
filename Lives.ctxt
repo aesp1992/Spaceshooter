@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Lives
+comment0.text=\n\ This\ class\ starts\ us\ off\ with\ the\ amount\ of\ lives\ we\ have\ and\ when\ we\ lose\ one.\n\ \n\ @author\ (Felix\ Gillingham)\ \n\ @version\ (05/02/2017)\n
+comment1.params=
+comment1.target=Lives()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Lives\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ createLives()
+comment4.params=
+comment4.target=void\ loseLife()
+comment4.text=\n\ Decrease\ the\ amount\ of\ lives\ we\ have.\n\ \n\ Felx\ Gillingham\n
+comment5.params=
+comment5.target=void\ addLife()
+comment5.text=\n\ Increase\ the\ amount\ of\ lives\ we\ have.\n\ \n\ Felx\ Gillingham\n
+comment6.params=value
+comment6.target=void\ setLives(int)
+comment6.text=\n\ Set\ Lives\ to\ a\ specific\ value\ (Used\ for\ level\ switching)\n\ \n\ @author\ (Adrian\ Espiritu)\n
+numComments=7

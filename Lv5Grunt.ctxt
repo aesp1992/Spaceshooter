@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lv5Grunt
+comment0.text=\n\ The\ Level\ 5\ Grunt\ enemies\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ powerupChance()
+comment2.text=\n\ @author\ (Felix\ Gillingham)\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=takeDamage
+comment4.target=void\ takeDamage(int)
+comment5.params=rate
+comment5.target=void\ rocketAttack(int)
+comment6.params=rate
+comment6.target=void\ rocketBurst(int)
+comment7.params=rate
+comment7.target=void\ attack(int)
+numComments=8

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BossTurret
+comment0.text=\n\ The\ turrets\ that\ rotate\ around\ the\ Final\ Boss\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ destroy()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ Adds\ the\ healthbar\ to\ the\ world\ when\ the\ turret\ is\ added\ to\ the\ world\n
+comment3.params=health\ newAttackRate\ newRadius\ newAngle\ newSpeed\ newTarget
+comment3.target=BossTurret(int,\ int,\ int,\ double,\ double,\ greenfoot.Actor)
+comment3.text=\n\ Initialises\ the\ class\n\ parameters\n\ \n\ int\ health\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ health\ the\ new\ turret\ will\ have\n\ int\ newAttackRate\ \ \ \ \ \ \ \ The\ speed\ the\ turret\ will\ shoot\ at\n\ int\ newRadius\ \ \ \ \ \ \ \ \ \ \ \ How\ far\ away\ the\ turret\ will\ be\ from\ it's\ target\n\ double\ newAngle\ \ \ \ \ \ \ \ \ \ The\ location\ around\ the\ target\ the\ turret\ will\ spawn\ at\n\ double\ newSpeed\ \ \ \ \ \ \ \ \ \ How\ fast\ the\ turret\ will\ rotate\ around\ it's\ target\n\ Actor\ newTarget\ \ \ \ \ \ \ \ \ \ The\ actor\ the\ turret\ belongs\ to\ and\ revolves\ around\n
+comment4.params=newAngle
+comment4.target=void\ setAngle(double)
+comment5.params=newSpeed
+comment5.target=void\ setSpeed(double)
+comment6.params=newRadius
+comment6.target=void\ setRadius(int)
+comment7.params=rate
+comment7.target=void\ attack(int)
+comment7.text=\n\ Gives\ the\ turret\ it's\ chance\ to\ shoot.\ This\ chance\ will\ be\ changed\ depending\n\ on\ the\ difficulty.\ Higher\ difficulty\ makes\ shooting\ faster.\n\ parameters\n\ \n\ int\ rate\ \ \ \ \ \ \ \ \ \ \ \ \ The\ chance\ of\ the\ turret\ shooting.\ Lower\ is\ faster.\n
+comment8.params=takeDamage
+comment8.target=void\ takeDamage(int)
+comment9.params=
+comment9.target=int\ getHealth()
+numComments=11

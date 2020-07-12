@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Turret
+comment0.text=\n\ The\ turrets\ that\ the\ player\ can\ pick\ up.\ Fly\ around\ in\ a\ circle\ around\ the\ player.\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=newRadius\ newAngle\ newParent
+comment2.target=Turret(int,\ double,\ Spaceship)
+comment2.text=\n\ Initialises\ the\ turret\ class\n\ parameters\n\ \n\ int\ newRadius\ \ \ \ \ \ \ \ \ \ \ \ The\ distance\ between\ the\ turret\ and\ the\ ship\n\ double\ newAngle\ \ \ \ \ \ \ \ \ \ The\ location\ around\ the\ ship\ the\ turret\ spawns\ at\n\ Spaceship\ newParent\ \ \ \ \ \ The\ ship\ the\ turret\ will\ rotate\ around\n
+comment3.params=
+comment3.target=void\ turretShoot()
+comment3.text=\n\ The\ chance\ for\ the\ turret\ to\ shoot.\n
+comment4.params=newAngle
+comment4.target=void\ setAngle(double)
+comment5.params=newRadius
+comment5.target=void\ setRadius(int)
+comment6.params=newRotation
+comment6.target=void\ setRotation(double)
+numComments=7

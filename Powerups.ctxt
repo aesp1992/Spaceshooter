@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Powerups
+comment1.params=
+comment1.target=void\ act()
+comment2.params=speed
+comment2.target=void\ moveObj(int)
+comment2.text=\n\ This\ class\ allows\ the\ powerup\n
+numComments=3

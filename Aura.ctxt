@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Aura
+comment0.text=\n\ A\ shield\ that\ goes\ around\ enemies\ and\ protects\ them.\n\ \n\ @author\ (Aziz\ Khan)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=newTarget
+comment2.target=Aura(Spaceship)
+comment3.params=
+comment3.target=void\ destroy()
+comment4.params=world
+comment4.target=void\ addedToWorld(greenfoot.World)
+numComments=5

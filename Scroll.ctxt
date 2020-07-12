@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scroll
+comment0.text=\n\ @author\ (Adrian\ Espiritu)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=speed
+comment2.target=void\ slideAcross(int)
+comment2.text=\n\ Default\ scroller\ for\ background.\ Moves\ 1\ image\ from\ the\ left\ edge\ of\ the\ screen\ and\ back.\n\ @author\ (Adrian\ Espiritu)\n
+numComments=3

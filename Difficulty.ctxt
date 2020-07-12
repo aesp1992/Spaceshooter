@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Difficulty
+comment1.params=where
+comment1.target=Difficulty(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StartScreen.\n\ @author\ (Adrian\ Espiritu)\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ addEasy1Button()
+comment5.params=
+comment5.target=void\ addEasy2Button()
+comment6.params=
+comment6.target=void\ addEasy3Button()
+numComments=7

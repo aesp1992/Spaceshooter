@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnemyRocket
+comment0.text=\n\ The\ missiles\ that\ the\ enemies\ shoot\ out.\ \n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=newDurationMath\ newMovementMath
+comment2.target=EnemyRocket(int,\ int)
+comment2.text=\n\ @author\ George\ Langroudi\n\ Initialises\ the\ class\n\ Parameters\n\ \n\ int\ newMovementMath\ \ \ \ \ \ The\ range\ of\ the\ possible\ random\ number\ used\ for\ movement\n\ int\ newDurationMath\ \ \ \ \ \ The\ range\ of\ the\ possible\ distance\ a\ rocket\ will\ move\ up\ or\ down\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ before\ shooting\ forward\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\n\ @author\ George\ Langroudi\n\ When\ the\ Rocket\ is\ added\ to\ the\ world,\ generates\ the\ random\ numbers\ it\ will\ use\n\ for\ it's\ movement.\ \n
+numComments=4

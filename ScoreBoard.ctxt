@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\n\u00A0*\ The\ ScoreBoard\ is\ used\ to\ display\ results\ as\ some\ text\ and\ several\ numbers.\n\u00A0*\ @author\ (Aziz\ Khan)\n\u00A0
+comment1.params=
+comment1.target=ScoreBoard()
+comment1.text=\n\ \ \ \ \u00A0\u00A0*\ Update\ the\ score\ board.\n\u00A0\u00A0
+comment2.params=
+comment2.target=void\ act()
+comment3.params=whathit
+comment3.target=void\ addScore(int)
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\n\ \ \ \ \u00A0*\ Make\ the\ score\ board\ image.\n\u00A0
+comment5.params=value
+comment5.target=void\ setScore(int)
+comment5.text=\n\ Set\ Score\ to\ a\ specific\ value\ (Used\ for\ level\ switching)\ \n\ @author\ (Adrian\ Espiritu)\n
+comment6.params=
+comment6.target=int\ getScore()
+comment6.text=\n\ Returns\ score\ value\n\ @author\ (Adrian\ Espiritu)\n
+numComments=7

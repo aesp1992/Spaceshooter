@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Fire
+comment0.text=\n\ \n\ @author\ (Adrian\ Espiritu,\ Felix\ Giillingham)\n\ @editor\ (George\ Langroudi)\n\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=newSpeed\ newDamage\ newSprite\ newAngle
+comment2.target=Fire(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ speechChance()
+comment3.text=\n\ author\ (Felix\ Gillingham)\n\ The\ chance\ that\ the\ ship\ will\ say\ something\ when\ an\ enemy\ is\ destroyed.\n
+comment4.params=
+comment4.target=void\ powerUpChance()
+comment4.text=\n\ @author\ (Felix\ Gillingham)\n\ This\ is\ the\ chance\ that\ an\ enemy\ will\ drop\ a\ power-up\ when\ they\ are\ destroyed.\n
+comment5.params=
+comment5.target=void\ enemyContact()
+comment5.text=\n\ @author\ (Adrian\ Espiritu)\n\ @editor\ (Felix\ Gillingham)\n\ Added\ Level\ 3,\ 4\ &\ 5\ grunts\ so\ that\ they\ can\ be\ hit\ and\ destroyed\ by\ the\ spaceship's\ shots.\n\ @editor\ (George\ Langroudi)\n
+comment6.params=
+comment6.target=void\ destroy()
+numComments=7

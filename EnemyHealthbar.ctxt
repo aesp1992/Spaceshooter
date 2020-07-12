@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EnemyHealthbar
+comment0.text=\n\ @author\ (George\ Langroudi)\n\ Modified\ from\ the\ original\ Healthbar\ Class\ by\ Adrian\ Espiritu\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ @author\ George\ Langroudi\n
+comment2.params=totalHealth\ newWidth\ newDisplacement\ newTarget\ newTrack\ newAnimate
+comment2.target=EnemyHealthbar(int,\ int,\ int,\ greenfoot.Actor,\ boolean,\ boolean)
+comment2.text=\n\ Initialises\ the\ healthbar\n\ @author\ George\ Langroudi\n\ Parameters\n\ \n\ @int\ totalHealth\ \ \ \ \ \ \ \ \ The\ amount\ of\ health\ this\ object\ will\ have\n\ @int\ newWidth\ \ \ \ \ \ \ \ \ \ \ \ The\ width\ of\ the\ new\ healthbar\n\ @Grunt\ newTarget\ \ \ \ \ \ \ \ \ The\ object\ this\ healthbar\ will\ represent\n
+comment3.params=
+comment3.target=void\ drawHealthbar()
+comment3.text=\n\ Draws\ the\ attributes\ of\ the\ CopyOfHealthbar.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment4.params=
+comment4.target=void\ animateHealthbar()
+comment4.text=\n\ Animates\ the\ healthbar\ when\ it\ is\ brought\ into\ the\ world.\n
+comment5.params=whathit
+comment5.target=void\ loseHealth(int)
+comment5.text=\n\ Health\ goes\ down\ by\ the\ specified\ parameter.\n\ \n\ @author\ (Adrian\ Espiritu)\n
+comment6.params=
+comment6.target=boolean\ isDestroyed()
+comment7.params=
+comment7.target=void\ refresh()
+comment8.params=
+comment8.target=int\ getHealth()
+comment9.params=newColor
+comment9.target=void\ setColor(greenfoot.Color)
+numComments=10

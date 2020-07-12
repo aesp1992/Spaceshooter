@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lv3Grunt
+comment0.text=\n\ The\ Level\ 3\ Grunt\ enemies\n\ \n\ @author\ (George\ Langroudi)\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Lv3Grunt\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=rate
+comment2.target=void\ attack(int)
+comment2.text=\n\ Gives\ the\ ship\ it's\ random\ attack\ chances.\ Lower\ is\ faster\n\ parameters\n\ \n\ int\ rate\ \ \ \ \ \ \ \ \ \ \ \ \ The\ chance\ the\ ship\ has\ of\ attacking.\ Lower\ is\ faster\n
+numComments=3
